@@ -1,6 +1,6 @@
 # Responsive Dashboard
 
-A new Flutter project.
+## Screenshots
 
 ![Desktop](https://github.com/Mohammed187/responsive_dashboard/blob/Mohammed187-patch-1/Screenshot%202021-10-07%20230326.png)
 ![Nobile 1](https://github.com/Mohammed187/responsive_dashboard/blob/Mohammed187-patch-1/Screenshot_1633632245.png)
